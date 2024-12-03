@@ -9,11 +9,6 @@ author:
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+(explanation in eNglish below Hindi explanation) 
+Akh ke poDhe pr Ande DeTi TiTli ke shishu cidiyo iTyaDi ke lie zHrile HoTe Hei kyo ki ve Akh ke zHrile pTTe khaTe Hei or Akh ka zHrila rs piTe Hei - or is lie cirriya is TiTli ya uske shishu ko nHi khaTi - or isi ka fayDa utha ke kAi Any TiTliya bhi ese rNg me HoTi Hei v cirriya unHe bhi zHrila smzh ke nHi khaTi. 
+plain tiger butterfly lays eggs in calatropis and as it's Host plant is poisonous, it's caterpillar / larvae are poisonous to birds and so birds do not eat either the butterfly or it's larvae / caterpillar - takiNg advantage of this, several other butterfly species Have a similar color scheme and so birds avoid eatiNg even those butterflies and their larvae / caterpillars.
