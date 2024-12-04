@@ -1,11 +1,13 @@
 ---
 title: "zkhm rkkhe Hei ye Hmne bhi zmane"
 excerpt: "zkhm rkkhe Hei ye Hmne bhi zmane vale cot Aasa nHi iTne ye bhulane vale"
-coverImage: "/assets/blog/authors/priyazi.jpeg"
+coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-11-04T05:35:07.322Z"
 author:
   name: priya sinHa
-  picture: "/assets/blog/authors/priyazi.jpeg"
+  picture: "/assets/blog/authors/priyazi.jpg"
+ogImage:
+  url: "/assets/blog/hello-world/cover.jpg"
 ---
 zkhm rkkhe Hei ye Hmne bhi zmane vale
 cot Aasa nHi iTne ye bhulane vale..
@@ -27,4 +29,4 @@ Teri plko  ko Apne khvab se sza DeNge
 meri AaNkho se meri ninD curane vale..
      ik Dfa Ho ske To rok le usko"snDl"
       lot AaTe nHi fir ruth ke zane vale..
-           💐priya sinHa"snDl"💐
+           "priya sinHa"snDl"

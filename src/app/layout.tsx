@@ -73,7 +73,7 @@ export default function RootLayout({ children, }: Readonly<{ children: React.Rea
             <option value="9">pnzabi115_font</option>
             <option value="L">guzrati115_font</option>
           </select>
-          <ThemeSwitcher />
+          {/* <ThemeSwitcher /> */}
         </div>
         <div className="min-h-screen">{children}</div>
         <Footer />
