@@ -1,3 +1,14 @@
+---
+title: "Hnuman chalisa"
+excerpt: "shriguru crn sroz rz niz mnu mukuru suDHari."
+coverImage: "/assets/blog/Hnuman/hnu.png"
+date: "2024-12-10T04:13:07.0530Z"
+author:
+  name: gosvami TulsiDas
+  picture: "/assets/blog/authors/TulsiDas.jpeg"
+ogImage:
+  url: "/assets/blog/Hnuman/hnu.png"
+---
 # Hnuman chalisa
 1. 
 ```
