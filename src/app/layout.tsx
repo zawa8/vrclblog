@@ -2,11 +2,11 @@
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 //import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+//import { Inter } from "next/font/google";
 import cn from "classnames";
-import { ThemeSwitcher } from "./_components/theme-switcher";
-import React, { useState } from 'react';
+//import { ThemeSwitcher } from "./_components/theme-switcher";
 ////binaryhoriontal115.woff2  hex115.woff2 binaryvertical115.woff2
+import React, { useState } from 'react';
 import {
 		hin115_font, ing115_font, bangla115_font, telugu115_font,
 		mlyalm115_font, tmil115_font, kannada115_font, odia115_font,
