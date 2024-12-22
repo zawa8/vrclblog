@@ -1,6 +1,6 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Akh ke poDhe pr Ande DeTi TiTli"
+excerpt: "Akh ke poDhe pr Ande DeTi TiTli ke shishu cidiyo iTyaDi ke lie zHrile HoTe Hei kyo ki ve Akh ke zHrile pTTe khaTe Hei or Akh ka zHrila rs piTe Hei - or is lie cirriya is TiTli ya uske shishu ko nHi khaTi - or isi ka fayDa utha ke kAi Any TiTliya bhi ese rNg me HoTi Hei v cirriya unHe bhi zHrila smzh ke nHi khaTi"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:

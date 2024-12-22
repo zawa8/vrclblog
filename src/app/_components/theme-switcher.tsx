@@ -55,6 +55,6 @@ const Switch = () => {
 const Script = memo(() => (
   <script dangerouslySetInnerHTML={{ __html: `(${NoFOUCScript.toString()})('${STORAGE_KEY}')`, }} />
 ));
-export const ThemeSwitcher = () => { /** * This component wich applies classes and transitions. */
+export const ThemeSwitcher = () => {
   return ( <> <Script /> <Switch /> </> );
 };
