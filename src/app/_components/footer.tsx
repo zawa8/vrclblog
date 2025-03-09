@@ -1,7 +1,7 @@
 "use client";
 import Container from "@/app/_components/container";
 import { EXAMPLE_PATH } from "@/lib/constants";
-import FontPicker from "@/app/_components/lifonts/lifonts";
+import FontPicker from "@/app/_components/lifonts/lifp";
 
 export function Footer() {
   return (

@@ -42,7 +42,7 @@ const FontPicker: React.FC = () => {
   };
 
   return (
-    <div style={{ width: 400, marginBottom: 20 }} >
+    <div style={{ width: 400, marginBottom: 20, color: 'black', backgroundColor: 'white' }} >
       <Select
         placeholder="select script"
         value={script}
