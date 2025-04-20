@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 import React from 'react';
-import { hindi15b } from './_components/lifonts/localfonts';
+import { hindienglosoftw8asc } from './_components/lifonts/localfonts';
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -28,7 +28,7 @@ export default function RootLayout({ children, }: Readonly<{ children: React.Rea
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={cn(hindi15b.className, "dark:bg-slate-900 dark:text-slate-400")} >
+      <body className={cn(hindienglosoftw8asc.className, "dark:bg-slate-900 dark:text-slate-400")} >
         {/* <ThemeSwitcher /> */}
         <Footer />
         <div className="min-h-screen">{children}</div>        
